@@ -1,4 +1,4 @@
-const Trip = require('../../app_server/models/travlr');
+const Trip = require('../models/travlr');
 
 const tripsList = async (req, res) => {
   try {
