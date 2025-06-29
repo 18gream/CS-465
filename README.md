@@ -10,7 +10,7 @@
 
 # How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces?
 # Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.
-  JSON stores and transfers data, while JavaScript is a progamming language that contains logic. In this project, a user will submit a form and the frontend sends/receives data in JSON format. On the backend (JavaScript), 
+  JSON stores and transfers data, while JavaScript is a programming language that contains logic. In this project, a user will submit a form and the frontend sends/receives data in JSON format. On the backend (JavaScript), 
   Express takes those forms, processes them, and then sends them back using JSON. I often reused JavaScript language that could be used throughout the frontend. For the backend, I reused logic for error handling. The benefits to reusable UI components 
   are efficiency and consistency throughout the project. 
 
